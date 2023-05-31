@@ -46,7 +46,7 @@ comments.on('item', (comment) => {
   const commentText = comment.body.toLowerCase();
 
   // Check if the comment mentions "atatürk" and cooldown time has passed
-  if (commentText.includes("atatürk") && (Date.now() - lastResponseTime) > 200000) {
+  if (commentText.includes("Atatürk") && (Date.now() - lastResponseTime) > 200) {
     // Generate a random quote and photo index
     const randomQuoteIndex = Math.floor(Math.random() * ataturkQuotes.length);
     const randomPhotoIndex = Math.floor(Math.random() * ataturkPhotos.length);
