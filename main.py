@@ -22,7 +22,7 @@ quotes = [
 ]
 
 # Define the URL of Mustafa Kemal Atatürk photos
-photo_url = 'https://example.com/mustafa-kemal-ataturk-photo.jpg'
+photo_url = 'https://api.emirkabal.com/v1/ataturk'
 
 # Monitor comments
 subreddit_name = 'all'  # Replace with the desired subreddit name or 'all' for all subreddits
