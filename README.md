@@ -2,7 +2,7 @@
 
 # Python 🐍
 
-Make sure to replace the placeholder values with your actual Reddit bot credentials, such as the YOUR_CLIENT_ID, YOUR_CLIENT_SECRET, YOUR_USER_AGENT, YOUR_REDDIT_USERNAME, and YOUR_REDDIT_PASSWORD. Also, update the photo_url variable with the actual URL of the Mustafa Kemal Atatürk photo you want to share.
+Make sure to replace the placeholder values with your actual Reddit bot credentials, such as the ```YOUR_CLIENT_ID, YOUR_CLIENT_SECRET, YOUR_USER_AGENT, YOUR_REDDIT_USERNAME``` and ```YOUR_REDDIT_PASSWORD```. Also, update the photo_url variable with the actual URL of the Mustafa Kemal Atatürk photo you want to share.
 
 This code uses the praw library to interact with the Reddit API and the time module to implement the cooldown period. Before running the script, make sure you have praw installed (pip install praw).
 
