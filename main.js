@@ -3,7 +3,7 @@ const Snoostorm = require('snoostorm');
 
 // Reddit API credentials
 const reddit = new Snoowrap({
-  userAgent: 'AtaturkBot v1.0',
+  userAgent: 'YOU_USERAGENT',
   clientId: 'YOUR_CLIENT_ID',
   clientSecret: 'YOUR_CLIENT_SECRET',
   username: 'YOUR_REDDIT_USERNAME',
