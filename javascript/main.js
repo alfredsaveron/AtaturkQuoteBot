@@ -3,7 +3,7 @@ const Snoostorm = require('snoostorm');
 
 // Reddit API credentials
 const reddit = new Snoowrap({
-  userAgent: 'YOU_USERAGENT',
+  userAgent: 'YOUR_USERAGENT',
   clientId: 'YOUR_CLIENT_ID',
   clientSecret: 'YOUR_CLIENT_SECRET',
   username: 'YOUR_REDDIT_USERNAME',
@@ -46,7 +46,7 @@ comments.on('item', (comment) => {
   const commentText = comment.body.toLowerCase();
 
   // Check if the comment mentions "atatürk" and cooldown time has passed
-  if (commentText.includes("Atatürk") && (Date.now() - lastResponseTime) > 200) {
+  if (commentText.includes("Atatürk") && (Date.now() - lastResponseTime) > 20000) {
     // Generate a random quote and photo index
     const randomQuoteIndex = Math.floor(Math.random() * ataturkQuotes.length);
     const randomPhotoIndex = Math.floor(Math.random() * ataturkPhotos.length);

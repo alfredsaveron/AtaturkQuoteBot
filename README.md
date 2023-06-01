@@ -18,6 +18,14 @@ Please note that you need to replace the placeholders (```YOUR_CLIENT_ID```, ```
 
 > **Warning** Remember to use the bot responsibly and respect the Reddit API usage guidelines and the rules of the subreddit you're targeting.
 
+# TypeScript (main.ts)
+
+Before running the code, make sure you have installed the **snoowrap** package by running ```npm install snoowrap``` or adding it to your project's ```package.json``` file.
+
+Replace the placeholder values (```YOUR_CLIENT_ID```, ```YOUR_CLIENT_SECRET```, ```YOUR_REDDIT_USERNAME```, ```YOUR_REDDIT_PASSWORD```, ```YOUR_SUBREDDIT```) with your actual Reddit API credentials and the subreddit you want the bot to monitor.
+
+> **Warning** Remember to use the bot responsibly and respect the Reddit API usage guidelines and the rules of the subreddit you're targeting.
+
 # Rust (```Under development```)
 
 Make sure to replace ```YOUR_REDDIT_USERNAME``` and ```YOUR_REDDIT_PASSWORD``` with your actual Reddit account credentials. Additionally, you may need to adjust the code to work with your preferred Reddit API library and handle rate limiting or other API restrictions.
