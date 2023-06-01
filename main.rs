@@ -20,7 +20,7 @@ fn main() {
 
                     let photo_link = get_random_photo_link();
 
-                    reddit.reply_to_comment(&comment.id, &format!("Mustafa Kemal Atatürk Quote: {}\n\nRandom Ataturk Photo: {}", quote, photo_link));
+                    reddit.reply_to_comment(&comment.id, &format!("Mustafa Kemal Atatürk Quote: {}\n\nRandom Atatürk Photo: {}", quote, photo_link));
 
                     last_response_time = Instant::now();
                 }
