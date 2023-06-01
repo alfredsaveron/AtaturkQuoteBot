@@ -2,7 +2,7 @@ import praw
 import random
 import time
 
-# Set up the Reddit bot
+# Set up the AtaturkQuoteBot
 reddit = praw.Reddit(
     client_id='YOUR_CLIENT_ID',
     client_secret='YOUR_CLIENT_SECRET',
