@@ -1,6 +1,6 @@
 # AtaturkQuoteBot
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg">
+<img width="100%" src="https://cdn.discordapp.com/attachments/745937151094423642/1113862268350890014/9ddb51c4e19d7ed5af5f42658d18c1d1.jpg">
 
 > Reddit bot that givin' M. Kemal Ataturk quotes when Ataturk mentioned on comments coded with Python and JavaScript
 
@@ -17,3 +17,7 @@ Also, update the photo_url variable with the actual URL of the Mustafa Kemal Ata
 Please note that you need to replace the placeholders (```YOUR_CLIENT_ID```, ```YOUR_CLIENT_SECRET```, ```YOUR_REDDIT_USERNAME```, ```YOUR_REDDIT_PASSWORD```, ```YOUR_SUBREDDIT```) with your actual **Reddit API** credentials and desired subreddit information. Additionally, make sure to install the necessary dependencies (```snoowrap and snoostorm```) using **npm** before running the code.
 
 > **Warning** Remember to use the bot responsibly and respect the Reddit API usage guidelines and the rules of the subreddit you're targeting.
+
+# Quotes .json right there!
+
+![image](https://github.com/alfredsaveron/AtaturkQuoteBot/assets/57676676/ae3c679a-39ec-4480-bf98-cf708d189f8f)
