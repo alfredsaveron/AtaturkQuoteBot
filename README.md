@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://cdn.discordapp.com/attachments/745937151094423642/1113862268350890014/9ddb51c4e19d7ed5af5f42658d18c1d1.jpg">
 
-> Reddit bot that givin' M. Kemal Ataturk quotes when Ataturk mentioned on comments coded with Python and JavaScript
+> Reddit bot that givin' M. Kemal Ataturk quotes when Ataturk mentioned on selected subreddit's post comments coded with Python and JavaScript
 
 # Python (main.py)
 
