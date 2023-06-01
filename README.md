@@ -1,5 +1,7 @@
 # AtaturkQuote
 
+> Reddit bot that givin' M. Kemal Ataturk quotes when Ataturk mentioned on comments coded with Python and JavaScript
+
 # Python (main.py)
 
 Make sure to replace the placeholder values with your actual Reddit bot credentials, such as the ```YOUR_CLIENT_ID```, ```YOUR_CLIENT_SECRET```, ```YOUR_USER_AGENT```, ```YOUR_REDDIT_USERNAME``` and ```YOUR_REDDIT_PASSWORD```. 
