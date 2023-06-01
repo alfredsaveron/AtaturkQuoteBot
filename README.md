@@ -1,4 +1,4 @@
-# AtaturkQuote
+# AtaturkQuote Reddit Bot
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg">
 
