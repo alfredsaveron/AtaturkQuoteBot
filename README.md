@@ -17,7 +17,3 @@ Also, update the photo_url variable with the actual URL of the Mustafa Kemal Ata
 Please note that you need to replace the placeholders (```YOUR_CLIENT_ID```, ```YOUR_CLIENT_SECRET```, ```YOUR_REDDIT_USERNAME```, ```YOUR_REDDIT_PASSWORD```, ```YOUR_SUBREDDIT```) with your actual **Reddit API** credentials and desired subreddit information. Additionally, make sure to install the necessary dependencies (```snoowrap and snoostorm```) using **npm** before running the code.
 
 > **Warning** Remember to use the bot responsibly and respect the Reddit API usage guidelines and the rules of the subreddit you're targeting.
-
-# Quotes .json right there!
-
-![image](https://github.com/alfredsaveron/AtaturkQuoteBot/assets/57676676/ae3c679a-39ec-4480-bf98-cf708d189f8f)
