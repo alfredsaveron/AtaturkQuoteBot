@@ -1,5 +1,7 @@
 # AtaturkQuote
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg">
+
 > Reddit bot that givin' M. Kemal Ataturk quotes when Ataturk mentioned on comments coded with Python and JavaScript
 
 # Python (main.py)
