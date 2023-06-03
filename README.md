@@ -26,7 +26,7 @@ Replace the placeholder values (```YOUR_CLIENT_ID```, ```YOUR_CLIENT_SECRET```, 
 
 > **Warning** Remember to use the bot responsibly and respect the Reddit API usage guidelines and the rules of the subreddit you're targeting.
 
-# Rust (```Under development```)
+# Rust (```Development```)
 
 Make sure to replace ```YOUR_REDDIT_USERNAME``` and ```YOUR_REDDIT_PASSWORD``` with your actual Reddit account credentials. Additionally, you may need to adjust the code to work with your preferred Reddit API library and handle rate limiting or other API restrictions.
 
