@@ -1,0 +1,14 @@
+{
+  "name": "AtaturkQuoteBot",
+  "version": "1.0.0",
+  "description": "Reddit bot that gives M.Kemal Ataturk quotes when Ataturk mentioned.",
+  "main": "javascript/main.js",
+  "scripts": {
+    "start": "node javascript/main.js"
+  },
+  "author": "Alf",
+  "license": "MIT",
+  "dependencies": {
+    "snoowrap": "^1.23.0"
+  }
+}
