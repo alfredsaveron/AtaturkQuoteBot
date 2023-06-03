@@ -1,0 +1,18 @@
+{
+  "name": "AtaturkQuoteBot",
+  "version": "1.0.0",
+  "description": "Reddit bot that gives M.Kemal Ataturk quotes when Ataturk mentioned.",
+  "main": "typescript/main.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node typescript/main.ts"
+  },
+  "author": "Alf",
+  "license": "MIT",
+  "dependencies": {
+    "snoowrap": "^1.23.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
