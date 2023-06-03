@@ -1,0 +1,5 @@
+name: AtaturkQuoteBot
+dependencies:
+  - praw
+  - requests
+  - pyyaml
