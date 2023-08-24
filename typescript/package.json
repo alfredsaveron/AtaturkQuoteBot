@@ -10,9 +10,9 @@
   "author": "Alf",
   "license": "MIT",
   "dependencies": {
-    "snoowrap": "^1.23.0"
+    "snoowrap": "^1.15.2"
   },
   "devDependencies": {
-    "typescript": "^4.4.4"
+    "typescript": "^5.1.6"
   }
 }
