@@ -1,13 +1,14 @@
 # AtaturkQuoteBot
 
+  <div style="flex: 1;">
+    <img style="max-width: 100%; width: 100%" src="https://media.discordapp.net/attachments/745937151094423642/1144291693751971860/41c357826cc80f38d8c907b829e46577.jpg?width=703&height=275" alt="Ataturk Photo">
+  </div>
+</div>
+
 <div style="display: flex; font-size: 18px;">
   <div style="flex: 1;">
     <b>AtaturkQuoteBot</b> is a Reddit bot that adds a touch of inspiration to discussions by sharing thought-provoking quotes from Mustafa Kemal Ataturk whenever his name is mentioned in comments on selected subreddits. The bot is powered by Javascript, Typescript and Python, showcasing its versatility and the use of two popular programming languages.
   </div>
-  <div style="flex: 1;">
-    <img style="max-width: 100%; width: 80%" src="https://cdn.discordapp.com/attachments/745937151094423642/1144271230703259758/5953eed8746e786cfceb20803d5d03fb.jpg" alt="Ataturk Photo">
-  </div>
-</div>
 
 # Table of Contents
 
