@@ -25,7 +25,8 @@ quotes = [
 photo_url = 'https://api.emirkabal.com/v1/ataturk'
 
 # Monitor alle comments
-subreddit_name = 'all'  # Replace with the desired subreddit name or 'all' for all subreddits
+# Replace with the desired subreddit name or 'all' for all subreddits
+subreddit_name = 'all'
 subreddit = reddit.subreddit(subreddit_name)
 
 # Keep track of the last response time
@@ -52,3 +53,6 @@ for comment in subreddit.stream.comments():
 
             # Update the last response time
             last_response_time = time.time()
+
+            # Wait for 3 seconds before replying to the next comment
+            time.sleep(3)
