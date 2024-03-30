@@ -1,7 +1,7 @@
 # AtaturkQuoteBot
 
   <div style="flex: 1;">
-    <img style="max-width: 100%; width: 100%" src="https://media.discordapp.net/attachments/745937151094423642/1144291693751971860/41c357826cc80f38d8c907b829e46577.jpg?width=703&height=275" alt="Ataturk Photo">
+    <img style="max-width: 100%; width: 100%" src="https://i.pinimg.com/564x/5b/bc/a2/5bbca28398a81c5f61354be375e416b6.jpg" alt="Ataturk Photo">
   </div>
 </div>
 
