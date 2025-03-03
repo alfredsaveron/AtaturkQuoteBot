@@ -34,7 +34,7 @@ const ataturkQuotes = [
 
 // Mustafa Kemal Atatürk photos
 const ataturkPhotos = [
-  "https://api.emirkabal.com/v1/ataturk",
+  "*active photo api link here*",
   // Add more photo URLs here
 ];
 

@@ -24,7 +24,7 @@ const ataturkQuotes: string[] = [
   // More here:
 ];
 
-const ataturkPhotos: string[] = ["https://api.emirkabal.com/v1/ataturk"];
+const ataturkPhotos: string[] = ["*active photo api link here*"];
 
 // Cooldown period in milliseconds
 const cooldownPeriod: number = 200000;
