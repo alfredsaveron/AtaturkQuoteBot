@@ -97,7 +97,7 @@ const YOUR_SUBREDDIT = "target_subreddit";
 
 # Contributing
 
-Feel free to further customize and enhance this template to match your project's structure and branding. You can add sections for installation instructions, usage examples, and any other relevant information. Good luck with your AtaturkQuoteBot project! 
+Feel free to further customize and enhance this template to match your project's structure and branding. You can add sections for installation instructions, usage examples, and any other relevant information.
 
 **I would like to thank [Berkay Gediz](https://github.com/berkaygediz) for his kind contributions.**
 
