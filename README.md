@@ -99,7 +99,7 @@ const YOUR_SUBREDDIT = "target_subreddit";
 
 Feel free to further customize and enhance this template to match your project's structure and branding. You can add sections for installation instructions, usage examples, and any other relevant information.
 
-**I would like to thank [Berkay Gediz](https://github.com/berkaygediz) for his kind contributions.**
+**I would like to thank [Berkay Gediz](https://github.com/berkaygediz) for their kind contributions.**
 
 ```markdown
 This version includes the provided template with code blocks enclosed in code tags, making it more readable and clear for anyone viewing your GitHub repository.
